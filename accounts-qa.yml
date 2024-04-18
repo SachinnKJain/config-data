@@ -1,0 +1,11 @@
+build:
+  version: 001
+  
+accounts:
+  message: "Welcome to sachinit09 to QA APIs"
+  contactDetails:
+    name: "Testing"
+    email: "QA@gmail.com"
+  onCallSupport:
+    - 987347472
+    - 1234567890
