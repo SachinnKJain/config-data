@@ -2,7 +2,7 @@ build:
   version: 001
   
 accounts:
-  message: "Welcome to sachinit09"
+  message: "Welcome to sachinit09-accounts-prod"
   contactDetails:
     name: "sachin jain"
     email: "sachin@gmail.com"
